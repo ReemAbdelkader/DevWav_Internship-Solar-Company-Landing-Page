@@ -4,6 +4,10 @@
 
 A modern, responsive landing page for a solar panel installation company built with HTML, CSS, and JavaScript. This project showcases solar services, products, and company values with an engaging user interface.
 
+🌐 Live Demo
+View Live Demo
+Experience the full functionality and responsive design of the solar company landing page. 
+
 ## 🌟 Features
 
 - **Responsive Design**: Fully responsive layout that works on desktop, tablet, and mobile devices
