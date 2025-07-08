@@ -4,7 +4,7 @@ A modern, responsive landing page for a solar panel installation company built w
 
 ## 🚀 Demo
 
-View the live demo: [Solar Company Landing Page](https://reemabdelkader.github.io/DevWav_Internship-Solar-Company-Landing-Page/)
+View the live demo: [Solar Company Landing Page](https://reemabdelkader.github.io/Solar-Company-Landing-Page/)
 
 ## 🌟 Features
 
