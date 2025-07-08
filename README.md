@@ -1,4 +1,4 @@
-# DevWav_Internship-Solar-Company-Landing-Page
+# Solar-Company-Landing-Page
 
 A modern, responsive landing page for a solar panel installation company built with HTML, CSS, and JavaScript. This project showcases solar services, products, and company values with an engaging user interface.
 
